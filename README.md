@@ -14,13 +14,13 @@ Bu proje, diyetisyenler ile hastalar arasında etkileşimi dijitalleştirerek ta
 ## 🖼️ Ekran Görüntüleri
 
 ### ✅ Hasta Paneli
-![Hasta Paneli](assets/hasta-paneli.png)
+![Hasta Paneli](assets/hasta-paneli.jpg)
 
 ### 👩‍⚕️ Diyetisyen Paneli
-![Diyetisyen Paneli](assets/diyetisyen-paneli.png)
+![Diyetisyen Paneli](assets/diyetisyen-paneli.jpg)
 
 ### 📈 Haftalık Rapor Ekranı
-![Rapor Ekranı](assets/haftalik-rapor.png)
+![Rapor Ekranı](assets/haftalik-rapor.jpg)
 
 ## 🛠️ Kullanılan Teknolojiler
 - **IDE :** IntelliJ IDEA
